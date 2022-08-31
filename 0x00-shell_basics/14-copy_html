@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq cp *.html ..
+cp uniq *.html ..
