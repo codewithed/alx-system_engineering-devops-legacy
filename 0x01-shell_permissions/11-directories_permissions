@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+x . | find /alx-system_engineering-devops/0x01-shell_permissions -type f exec chmod a-x 
+chmod -R +X . 
