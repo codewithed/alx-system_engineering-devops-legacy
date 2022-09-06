@@ -1,0 +1,2 @@
+#!/bin/bash
+printf -v i "%.5f" "NUM"
