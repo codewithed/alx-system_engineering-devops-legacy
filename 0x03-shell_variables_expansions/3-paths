@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | grep -o ':/'| wc -l 
+lines=$(echo $PATH | grep -o ':/'| wc -l )| echo $($lines + 1)  
